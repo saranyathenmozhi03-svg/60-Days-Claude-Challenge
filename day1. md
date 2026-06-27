@@ -1,0 +1,27 @@
+# Day 1: Prompt Engineering
+
+## 🤖 What is Prompt Engineering?
+Prompt engineering is the skill of writing clear, well-structured instructions 
+for an AI tool so it understands exactly what you want — like giving precise 
+directions instead of vague ones.
+
+## 💡 Why It Matters
+The same question can get a generic answer or a powerful one — depending 
+entirely on how you phrase it. Good prompting = AI becomes a reliable partner, 
+not a guessing game.
+
+## ❌ Weak Prompt
+> "Write something about marketing."
+
+## ✅ Improved Prompt
+> "Write a 100-word LinkedIn post for small business owners explaining why 
+> social media consistency matters more than going viral. Use a friendly, 
+> confident tone and end with a question."
+
+## ✨ 3 Benefits of Better Prompts
+1. **Saves time** — fewer back-and-forth attempts
+2. **Improves quality** — sharper, more relevant answers
+3. **Builds consistency** — repeatable results across tasks
+
+---
+*#60DaysClaudeChallenge — Day 1*
